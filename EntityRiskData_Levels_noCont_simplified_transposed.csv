@@ -1,0 +1,10 @@
+ATTRIB,LEVELS,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Legal_Entity_Structure ,Corporations,Sole Proprietorships,S Corporations,Partnerships,Limited Liability Company (LLC),,,,,,,,,,,,,,,,,,,,,,,
+Missing_Identifier,Missing or Invalid Identifier,Available and valid Identifier,,,,,,,,,,,,,,,,,,,,,,,,,,
+PartySharingSameAddress,No other unrelated party has this address,Two or more unrelated parties share the address,Another party is sharing this party's address,,,,,,,,,,,,,,,,,,,,,,,,,
+HighestRiskCountry,United States of America,Bangladesh,South Sudan,Saint Kitts and Nevis,Chad,Cabo Verde,Cyprus,Panama,Ecuador,Turkmenistan,Venezuela,Laos,Burma (Myanmar),Zambia,Afghanistan,Swaziland,Mauritius,Indonesia,Honduras ,Tajikistan,Maldives,Mali,Iraq,Congo,Uzbekistan,Cambodia,Guatemala,North Korea
+HIFCA_ZIP,Yes,No,,,,,,,,,,,,,,,,,,,,,,,,,,
+MultipleCards,Party has 5 or more authorized users,Party does not have 5 or more authorized users,,,,,,,,,,,,,,,,,,,,,,,,,,
+SARs,0,4,3,2,5,1,,,,,,,,,,,,,,,,,,,,,,
+TransactionAlters,0,5,1,4,3,2,,,,,,,,,,,,,,,,,,,,,,
+SARS_LEGALSERVICES,Party has no SAR related to Legal Services Processes,Party has a SAR filed related to legal service process (e.g. subpoenas National Security Letter 314(a)),,,,,,,,,,,,,,,,,,,,,,,,,,
